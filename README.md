@@ -2,6 +2,7 @@
 
 - [x] send email via aws ses programmatically
 - [ ] receive email via aws ses
+- [ ] tg bot notifications / replies
 - [ ] send email via aws ses from web ui
 - [ ] send email via aws ses from Mail.app
 - [ ] receive email via aws ses (in web ui?)
